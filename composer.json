@@ -1,10 +1,10 @@
 {
-  "name": "yoanm/jsonrpc-params-symfony-validator-sdk",
+  "name": "symfonyx/jsonrpc-params-symfony-validator-sdk",
   "description": "Simple JSON-RPC params validator that use Symfony validator component",
   "license": "MIT",
   "type": "library",
   "support": {
-    "issues": "https://github.com/yoanm/php-jsonrpc-params-symfony-validator-sdk/issues"
+    "issues": "https://github.com/symfonyx/php-jsonrpc-params-symfony-validator-sdk/issues"
   },
   "authors": [
     {
