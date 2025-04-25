@@ -34,7 +34,7 @@
   "suggest": {
     "symfonyx/symfony-jsonrpc-params-validator": "Symfony bundle for easy JSON-RPC params validation",
     "symfonyx/symfony-jsonrpc-http-server": "Symfony Bundle to convert an HTTP json-rpc request into HTTP json-rpc response",
-    "symfonyx/jsonrpc-params-symfony-constraint-doc-sdk": "To generate payload documentation from validation constraints"
+    "yoanm/jsonrpc-params-symfony-constraint-doc-sdk": "To generate payload documentation from validation constraints"
   },
   "require": {
     "php": "^8.0",
