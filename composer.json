@@ -37,8 +37,8 @@
     "yoanm/jsonrpc-params-symfony-constraint-doc-sdk": "To generate payload documentation from validation constraints"
   },
   "require": {
-    "php": ">=7.2",
-    "symfonyx/jsonrpc-server-sdk": "dev-master",
+    "php": "^7.2 || ^8.0",
+    "symfonyx/jsonrpc-server-sdk": "^3.0",
     "symfony/validator": "^4.0 || ^5.0"
   },
   "require-dev": {
